@@ -1,10 +1,11 @@
 h1{
-    font-family: "Rubik Puddles", system-ui;
+    font-family:  font-family: "Carter One", system-ui;
   font-weight: 400;
   font-style: normal;
-  text-align: center;
-  font-size: 60px;  
-  background: linear-gradient(to right, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #8f00ff); 
+   text-align: center;
+  font-size: 40px;  
+  color: rgba(255, 255, 255, 0.5);
+ 
 }
 #row1 {
   background-color:rgba(69, 172, 209, 0.5); 
@@ -12,9 +13,9 @@ h1{
 Arial
 sans-serif
 "Noto Color Emoji"
-  text-align: center;
-  font-size: 20px;
-  font-weight: bold;
+  /* text-align: center; */
+  font-size: 18px;
+  /* font-weight: bold; */
   color: white;
 }
 
@@ -24,9 +25,9 @@ sans-serif
 Arial
 sans-serif
 "Noto Color Emoji"
-  text-align: center;
+        /* text-align: center; */
   font-size: 18px;
-  font-weight: bold;
+  /* font-weight: bold; */
   color: white;
   overflow: hidden; 
   opacity: 0.8;
@@ -37,9 +38,9 @@ sans-serif
 Arial
 sans-serif
 "Noto Color Emoji"
-  text-align: center;
-  font-size: 20px;
-  font-weight: bold;
+  /* text-align: center; */
+  font-size: 18px;
+  /* font-weight: bold; */
   color: white;
 }
 #row4{
@@ -48,9 +49,9 @@ sans-serif
 Arial
 sans-serif
 "Noto Color Emoji"
-  text-align: center;
-  font-size: 20px;
-  font-weight: bold;
+  /* text-align: center; */
+  font-size: 18px;
+  /* font-weight: bold; */
   color: white;
 }
 #row5{
@@ -59,9 +60,9 @@ sans-serif
 Arial
 sans-serif
 "Noto Color Emoji"
-  text-align: center;
-  font-size: 17px;
-  font-weight: bold;
+  /* text-align: center; */
+  font-size: 18px;
+  /* font-weight: bold; */
   color: white;
 }
 #row6{
@@ -70,9 +71,9 @@ sans-serif
 Arial
 sans-serif
 "Noto Color Emoji"
-  text-align: center;
-  font-size: 17px;
-  font-weight: bold;
+  /* text-align: center; */
+  font-size: 18px;
+  /* font-weight: bold; */
   color: white;
 }
 #row7{
@@ -81,9 +82,9 @@ sans-serif
 Arial
 sans-serif
 "Noto Color Emoji"
-  text-align: center;
-  font-size: 20px;
-  font-weight: bold;
+  /* text-align: center; */
+  font-size: 18px;
+  /* font-weight: bold; */
   color: white;
 }
 #row8{
@@ -92,9 +93,9 @@ sans-serif
      Arial
 sans-serif
 "Noto Color Emoji"
-  text-align: center;
-  font-size: 20px;
-  font-weight: bold;
+  /* text-align: center; */
+  font-size: 18px;
+  /* font-weight: bold; */
   color: white;
 }
 #row9{
@@ -103,9 +104,9 @@ sans-serif
      Arial
      sans-serif
 "Noto Color Emoji"
-  text-align: center;
-  font-size: 20px;
-  font-weight: bold;
+  /* text-align: center; */
+  font-size: 18px;
+  /* font-weight: bold; */
   color: white;
 }
 #row10{
@@ -114,9 +115,9 @@ sans-serif
      Arial
      sans-serif
      "Noto Color Emoji"
-  text-align: center;
-  font-size: 20px;
-  font-weight: bold;
+  /* text-align: center; */
+  font-size: 18px;
+  /* font-weight: bold; */
   color: white;
 }
 #row11{
@@ -125,9 +126,8 @@ sans-serif
      Arial
      sans-serif
      "Noto Color Emoji"
-  text-align: center;
-  font-size: 20px;
-  font-weight: bold;
+  /* text-align: center; */
+  font-size: 18px;
   color: white;
 }
 #row12{
@@ -136,9 +136,8 @@ sans-serif
      Arial
      sans-serif
      "Noto Color Emoji"
-  text-align: center;
-  font-size: 20px;
-  font-weight: bold;
+  /* text-align: center; */
+  font-size: 18px;
   color: white;
 }
 #row13{
@@ -147,13 +146,12 @@ sans-serif
      Arial
      sans-serif
      "Noto Color Emoji"
-  text-align: center;
-  font-size: 20px;
-  font-weight: bold;
+  /* text-align: center; */
+  font-size: 18px;
   color: white;
 }
 body{
-  background-image: url(istockphoto-592031250-612x612.jpg);
+  background-image: url(./brilliant-vibrant-image-presenting-an-elegant-atmospheric-night-background-with-radiant-clear-vivid-warm-for-creative-stock-image-free-photo.jpeg); 
   background-size: 100%;
   background-repeat: no-repeat;
   background-attachment: fixed;
