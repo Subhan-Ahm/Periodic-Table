@@ -14,7 +14,7 @@ Arial
 sans-serif
 "Noto Color Emoji"
   /* text-align: center; */
-  font-size: 18px;
+  font-size: 16px;
   /* font-weight: bold; */
   color: white;
 }
@@ -25,12 +25,11 @@ sans-serif
 Arial
 sans-serif
 "Noto Color Emoji"
-        /* text-align: center; */
-  font-size: 18px;
+        /* text-align: left; */
+  font-size: 16px;
   /* font-weight: bold; */
   color: white;
-  overflow: hidden; 
-  opacity: 0.8;
+
 }
 #row3{
     background-color: rgba(240, 92, 55, 0.5);
@@ -38,8 +37,8 @@ sans-serif
 Arial
 sans-serif
 "Noto Color Emoji"
-  /* text-align: center; */
-  font-size: 18px;
+  /* text-align: left; */
+  font size: 16px;
   /* font-weight: bold; */
   color: white;
 }
@@ -49,8 +48,8 @@ sans-serif
 Arial
 sans-serif
 "Noto Color Emoji"
-  /* text-align: center; */
-  font-size: 18px;
+  /* text-align: left; */
+  font-size: 16px;
   /* font-weight: bold; */
   color: white;
 }
@@ -60,8 +59,8 @@ sans-serif
 Arial
 sans-serif
 "Noto Color Emoji"
-  /* text-align: center; */
-  font-size: 18px;
+  /* text-align: left; */
+  font-size: 16px;
   /* font-weight: bold; */
   color: white;
 }
@@ -71,8 +70,8 @@ sans-serif
 Arial
 sans-serif
 "Noto Color Emoji"
-  /* text-align: center; */
-  font-size: 18px;
+  /* text-align: left; */
+  font-size: 16px;
   /* font-weight: bold; */
   color: white;
 }
@@ -82,8 +81,8 @@ sans-serif
 Arial
 sans-serif
 "Noto Color Emoji"
-  /* text-align: center; */
-  font-size: 18px;
+  /* text-align: left; */
+  font-size: 16px;
   /* font-weight: bold; */
   color: white;
 }
@@ -93,8 +92,8 @@ sans-serif
      Arial
 sans-serif
 "Noto Color Emoji"
-  /* text-align: center; */
-  font-size: 18px;
+  /* text-align: left; */
+  font-size: 16px;
   /* font-weight: bold; */
   color: white;
 }
@@ -104,8 +103,8 @@ sans-serif
      Arial
      sans-serif
 "Noto Color Emoji"
-  /* text-align: center; */
-  font-size: 18px;
+  /* text-align: left; */
+  font-size: 16px;
   /* font-weight: bold; */
   color: white;
 }
@@ -115,8 +114,8 @@ sans-serif
      Arial
      sans-serif
      "Noto Color Emoji"
-  /* text-align: center; */
-  font-size: 18px;
+  /* text-align: left; */
+  font-size: 16px;
   /* font-weight: bold; */
   color: white;
 }
@@ -126,8 +125,8 @@ sans-serif
      Arial
      sans-serif
      "Noto Color Emoji"
-  /* text-align: center; */
-  font-size: 18px;
+  /* text-align: left; */
+  font-size: 16px;
   color: white;
 }
 #row12{
@@ -136,8 +135,8 @@ sans-serif
      Arial
      sans-serif
      "Noto Color Emoji"
-  /* text-align: center; */
-  font-size: 18px;
+  /* text-align: left; */
+  font-size: 16px;
   color: white;
 }
 #row13{
@@ -146,8 +145,8 @@ sans-serif
      Arial
      sans-serif
      "Noto Color Emoji"
-  /* text-align: center; */
-  font-size: 18px;
+  /* text-align: ; */
+  font-size: 16px;
   color: white;
 }
 body{
@@ -156,3 +155,4 @@ body{
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
+
